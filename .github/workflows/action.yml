@@ -3,7 +3,7 @@ name: 'ZJU-nCov-Hitcarder Action'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '18 14 * * *'
+    - cron: '23 14 * * *'
 
 jobs:
   main:
